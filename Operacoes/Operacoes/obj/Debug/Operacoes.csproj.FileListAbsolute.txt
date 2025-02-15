@@ -1,0 +1,11 @@
+C:\OPERACOES\Operacoes\Operacoes\bin\Debug\Operacoes.exe.config
+C:\OPERACOES\Operacoes\Operacoes\bin\Debug\Operacoes.exe
+C:\OPERACOES\Operacoes\Operacoes\bin\Debug\Operacoes.pdb
+C:\OPERACOES\Operacoes\Operacoes\obj\Debug\Operacoes.csproj.AssemblyReference.cache
+C:\OPERACOES\Operacoes\Operacoes\obj\Debug\Operacoes.csproj.CoreCompileInputs.cache
+C:\OPERACOES\Operacoes\Operacoes\obj\Debug\Operacoes.exe
+C:\OPERACOES\Operacoes\Operacoes\obj\Debug\Operacoes.pdb
+C:\OPERACOES\Operacoes\Operacoes\bin\Debug\categoria.json
+C:\OPERACOES\Operacoes\Operacoes\bin\Debug\Newtonsoft.Json.dll
+C:\OPERACOES\Operacoes\Operacoes\bin\Debug\Newtonsoft.Json.xml
+C:\OPERACOES\Operacoes\Operacoes\obj\Debug\Operacoes.csproj.Up2Date

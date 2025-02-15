@@ -1,0 +1,23 @@
+[
+  {
+    "Atraso": 30,
+    "Setor": "",
+    "ValorAcimaDe": 1000000,
+    "DescricaoCategoria": "EXPIRED",
+    "DescricaoRegra": "Operações cuja próxima data de pagamento está atrasada há mais de 30 dias, baseado na data de referência que será disponibilizada."
+  },
+  {
+    "Atraso": 0,
+    "Setor": "Private",
+    "ValorAcimaDe": 1000000,
+    "DescricaoCategoria": "HIGHRISK",
+    "DescricaoRegra": "Operações com valor superior a 1,000,000, com cliente do setor Privado."
+  },
+  {
+    "Atraso": 0,
+    "Setor": "Public",
+    "ValorAcimaDe": 1000000,
+    "DescricaoCategoria": "MEDIUMRISK",
+    "DescricaoRegra": "Operações com valor superior a 1,000,000, com cliente do setor Público."
+  }
+]
